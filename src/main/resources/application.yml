@@ -1,0 +1,8 @@
+feeds:
+  abc: def
+  urls:
+    - url1
+    - url2
+    - url3
+
+base: level
